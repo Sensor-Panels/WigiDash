@@ -5,13 +5,10 @@ ObsidianMetrics is my first ever [AIDA64](https://www.aida64.com/products) senso
 ![image](https://github.com/Infinite-Patience/Aida64-Panels/assets/157330778/f34022c0-26e5-4f9f-bb1e-e3acbdfda9fa)
 
 
-# Download
+# Download 
 
- 
+You can get the latest release (and base skin PNG source files) [here](https://github.com/Sensor-Panels/WigiDash/releases/tag/ObsidianMetrics-v1)
 
-You can get the latest release [here](https://github.com/Sensor-Panels/WigiDash/releases/tag/ObsidianMetrics-v1)
-
-Asset source files for the default skin are currently Macromedia Fireworks only but can be downloaded [here](https://github.com/Infinite-Patience/Aida64-Panels/releases/tag/ObsidianMetrics_Fireworks_PNG_Sources_v1.0)
 
 # Key features
 
