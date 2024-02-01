@@ -17,7 +17,7 @@ You can get the latest release (and base skin PNG source files) [here](https://g
 - Includes both background and foreground images for the various sections, this means the subpanels/widgets can be moved as a whole section and re-arranged (by bulk selecting the layers within the AIDA UI). E.g. You could have the two main CPU and GPU graphs change places, or move the entire left column of clock + 5 graphs to the right side instead, etc. If so desired.
 - Extensive IO support with sensors from up to four drives, with working blinking read/write LED's for each one (a possible first, since ive not seen this implemented using AIDA before), as well as live useage monitoring, and bars for utilisation.
 - Shared with experienced AIDA tweakers in mind, all assets used follow an intuitive naming convention, making Aida's decades old feeling UI a tiny bit easier to navigate.
-- All inlcuded image assets are provided with [source files](https://github.com/Infinite-Patience/Aida64-Panels/releases/tag/ObsidianMetrics_Fireworks_PNG_Sources_v1.0), and are meant for you to use/edit/replace as you please. However these are currently Macromedia Fireworks only, I will be moving to photoshop going onwards though, as i plan on releasing some skin packs for this in the future, i only used Fireworks for this first version, since its quicker for this type of pixel design.
+- All inlcuded image assets are provided with source files, and are meant for you to use/edit/replace as you please. 
 
 # Sensor modules:-
 The panel pulls sensor data from many sensors, and is designed around a one second update interval. I decided to go overboard with the amount of sensors, since its easier to disable/remove the ones you dont need from within AIDA, than adding them.
